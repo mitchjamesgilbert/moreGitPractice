@@ -1,1 +1,3 @@
 This is a text file which I added directly using GitHub rather than through my command line
+
+Now I have edited the txt file using GitHub. This is the edit.
