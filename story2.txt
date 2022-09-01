@@ -1,3 +1,5 @@
 This is a text file which I added directly using GitHub rather than through my command line
 
 Now I have edited the txt file using GitHub. This is the edit.
+
+On an experimental branch I have now added a new line. I'm not sure if the original branch will be affected by this update though.
